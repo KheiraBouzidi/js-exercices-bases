@@ -1,0 +1,17 @@
+.type1 {
+    background: url("https://www.maganimal.com/wp-content/uploads/2015/03/miakangel_4f32b57ac9e8c1.jpg") no-repeat center;
+    height: 500px;
+    width: 800px;
+    margin: 0 auto;
+    transition: 0.5s;
+    
+}
+
+.type2 {
+    background: url("https://staticr1.blastingcdn.com/media/photogallery/2019/7/18/os/b_1200x630/6-signes-qui-montrent-quun-chat-nest-pas-content-photo-publiee-par-anymalix_2296611.jpg") no-repeat center;
+    height: 300px;
+    width: 700px;
+    margin: 0 auto;
+    transition: 0.5s;
+    
+}
